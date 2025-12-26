@@ -1,0 +1,34 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# SSMS temporary files
+*.sql~
+*~
+
+# Backup files
+*.backup
+
+# Log files
+*.log
+
+# VS/SSMS user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# OS files
+.DS_Store
+Thumbs.db
